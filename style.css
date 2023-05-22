@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .w-75{
+        width: 330px;
+    }
+    .green{
+        background-color: #43B62A;
+    }
+
+}
